@@ -1,2 +1,2 @@
-# Project1_Python_game
+# Pokemon :pokemon-charmander: 
 Pokemon 2 player game 
